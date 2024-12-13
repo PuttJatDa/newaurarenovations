@@ -5,7 +5,7 @@ import { Button, Form, Input } from "antd";
 
 function Contact() {
   const handleSubmit = (e) => {
-    console.log(e);
+    console.log(e.targe.value);
   };
   return (
     <div className="">
