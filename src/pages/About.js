@@ -20,7 +20,7 @@ function About() {
           </div>
           <div className="md:w-[53%] w-full flex flex-col justify-center text-[#5b5b5b]">
             <p className=" leading-10">
-              G-Class Construction Corp. is a leading construction and
+              New Aura Renovations is a leading construction and
               renovation company. We specialize in Legal Basements that are
               constructed according to city guidelines.
             </p>
