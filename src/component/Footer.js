@@ -66,9 +66,9 @@ function Footer({ setServiceTab }) {
           <h2 className="text-lg font-semibold text-orange-400">
             Contact Information
           </h2>
-          <p>+1(647)-548-1720</p>
+          <p>+1(647)-549-1720</p>
           
-          <p>8 Hillsburg, Brampton, ON, L6X 4Z1, Canada</p>
+          <p>8 Hillsburgh, Brampton, ON, L6X 4Z1, Canada</p>
           <p>9:00 AM – 6:00 PM (Mon – Fri)</p>
           <div className="flex space-x-4">
             <a href="https://facebook.com" className="hover:text-orange-300">
