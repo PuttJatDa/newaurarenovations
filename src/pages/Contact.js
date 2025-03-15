@@ -5,7 +5,6 @@ import { Button, Form, Input } from "antd";
 
 function Contact() {
   const handleSubmit = (e) => {
-    e.preventDefault();
     window.location.href = "https://wa.me/16475491720";
     console.log(e.target.value);
   };
