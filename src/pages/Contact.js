@@ -5,7 +5,10 @@ import { Button, Form, Input } from "antd";
 
 function Contact() {
   const handleSubmit = (e) => {
+    https://wa.me/16475491720
+    /*
     console.log(e.targe.value);
+    */
   };
   return (
     <div className="">
@@ -62,6 +65,7 @@ function Contact() {
             </div>
             <div className="md:w-[43%] w-full flex items-center">
             <div className=" w-full rounded-lg shadow-md overflow-hidden">
+              /*
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.436509523495!2d-79.74368462429326!3d43.71359699757696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b3db679101ae3%3A0xe7e0ea6394c5c171!2s33%20Palm%20Tree%20Rd%2C%20Brampton%2C%20ON%20L6V%204N5%2C%20Canada!5e0!3m2!1sen!2sin!4v1702235512340!5m2!1sen!2sin"
                 width="100%"
@@ -71,6 +75,7 @@ function Contact() {
                 loading="lazy"
                 title="Google Maps"
               ></iframe>
+              */
             </div>
             </div>
           </div>
