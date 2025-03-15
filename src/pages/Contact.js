@@ -5,10 +5,11 @@ import { Button, Form, Input } from "antd";
 
 function Contact() {
   const handleSubmit = (e) => {
-    https://wa.me/16475491720
-    /*
-    console.log(e.targe.value);
-    */
+    e.preventDefault();
+    window.location.href="https://wa.me/16475491720";
+    
+    console.log(e.target.value);
+    
   };
   return (
     <div className="">
